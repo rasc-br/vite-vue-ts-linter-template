@@ -73,5 +73,7 @@ And add the configurations extensions
 
 - Documentation:
 https://eslint.vuejs.org/rules/script-setup-uses-vars.html
+
+
 https://eslint.vuejs.org/user-guide/#compiler-macros-such-as-defineprops-and-defineemits-generate-no-undef-warnings
 
